@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=800&color=05577F&center=true&vCenter=true&width=750&lines=Htet+Zaw+Paing;Hybrid+Developer+%7C+Software+Engineer;AI+Researcher+%26+Trainer;Future+Tech+Leader+%7C+Entrepreneur" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FlashChinchilla&label=Profile%20Views&color=0AAFFF&style=flat-square" alt="visitor counter" />
-</p>
-
----
 
 ## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://media.tenor.com/7UHqqhLP8tgAAAAm/stk.webp" alt="" data-animated-image="" style="width: 60px;">
 Software Engineer | AI Researcher & Trainer
@@ -105,4 +96,12 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 
 <p align="center" style="font-size: 11px; color: #666;">
 © 2026 <strong>Htet Zaw Paing</strong>. All Rights Reserved. · Software Specialist
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=800&color=05577F&center=true&vCenter=true&width=750&lines=Htet+Zaw+Paing;Hybrid+Developer+%7C+Software+Engineer;AI+Researcher+%26+Trainer;Future+Tech+Leader+%7C+Entrepreneur" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FlashChinchilla&label=Profile%20Views&color=0AAFFF&style=flat-square" alt="visitor counter" />
 </p>
