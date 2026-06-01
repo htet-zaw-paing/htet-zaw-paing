@@ -99,7 +99,7 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=800&color=05577F&center=true&vCenter=true&width=750&lines=Htet+Zaw+Paing;Hybrid+Developer+%7C+Software+Engineer;AI+Researcher+%26+Trainer;Future+Tech+Leader+%7C+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=800&color=05577F&center=true&vCenter=true&width=750&lines=Htet+Zaw+Paing;Hybrid+Developer+%7C+Software+Engineer;Future+Tech+Leader+%7C+Entrepreneur" />
 </p>
 
 <p align="center">
