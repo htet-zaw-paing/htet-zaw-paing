@@ -1,6 +1,6 @@
 
 ## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://media.tenor.com/7UHqqhLP8tgAAAAm/stk.webp" alt="" data-animated-image="" style="width: 60px;">
-Software Engineer | AI Researcher
+Software Engineer - Web Developer
 
 --- 
 
